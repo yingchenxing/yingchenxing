@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/xi-chen-515156231/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="xander11chan@gmail.com">
+  <a href="mailto:xander11chan@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
