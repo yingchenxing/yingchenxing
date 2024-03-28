@@ -13,7 +13,7 @@
 - 🔭 I’m currently a Full Stack Developer in **the Programming with Intelligent Machines & Environments Lab** at Virginia Tech
 
 
-<img src="https://raw.githubusercontent.com/yingchenxing/profile-3d-contrib/profile-night-rainbow.svg" alt="Banner" width="100%"/>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
 ## Languages & Tools
