@@ -19,3 +19,10 @@
 
 ### Database
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" style="margin-right: 10px;" /><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" height="50" style="margin-right: 10px;" />
+
+### Cloud
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="50" style="margin-right: 10px;" /><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="50" style="margin-right: 10px;" />
+
+
+### Tool
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="50" style="margin-right: 10px;" /><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50" style="margin-right: 10px;" title="Netlify" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" style="margin-right: 10px;" title="Postman" /><img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" height="50" style="margin-right: 10px;" title="Twilio" />
