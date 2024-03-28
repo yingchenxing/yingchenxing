@@ -1,4 +1,19 @@
-# Hi 👋, I'm Xi Chen
+<div align="center">
+  <!-- Banner Image -->
+  <img src="https://github.com/yingchenxing/yingchenxing/assets/71536778/8a96d513-9617-4936-8f74-3b88f256943b" alt="Banner" width="100%"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="YOUR_EMAIL">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your-github-username.your-github-repo" alt="visitor badge"/>
+</div>
+
 
 - 🔭 I’m currently a Full Stack Developer in **the Programming with Intelligent Machines & Environments Lab** at Virginia Tech
 
