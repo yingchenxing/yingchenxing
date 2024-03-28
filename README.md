@@ -10,13 +10,11 @@
 </div>
 
 
-- 🔭 I’m currently a Full Stack Developer in **the Programming with Intelligent Machines & Environments Lab** at Virginia Tech
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&center=true&random=false&width=1200&lines=%F0%9F%8E%89+Welcome+to+my+Profile!+%F0%9F%9A%80;%F0%9F%8C%9F+Full+Stack+Developer+%7C+4yrs%2B+of+coding+experience%F0%9F%8E%A9%E2%9C%A8;+Let's+build+something+great+together!+%F0%9F%9A%80%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%94%A7)](https://git.io/typing-svg)
 
 ## Languages & Skills
-
+<!--   my-skils -->
 | Domain | Technologies |
 | --- | --- |
 | **Languages** | ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white) |
@@ -25,3 +23,7 @@
 | **Cloud** | ![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 | **Database** | ![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
 | **Tools** | ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/-Langchain-007396?style=flat-square&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
+
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
