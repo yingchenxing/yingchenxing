@@ -15,12 +15,11 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-### Skills
-
-### Skills
+## Languages & Skills
 
 | Domain | Technologies |
 | --- | --- |
+| **Languages** | ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white) |
 | **Backend** | ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![](https://img.shields.io/badge/-MyBatis_Plus-007396?style=flat-square&logo=mybatis&logoColor=white) |
 | **Frontend** | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | **Cloud** | ![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
