@@ -1,25 +1,17 @@
 <div align="center">
   <!-- Banner Image -->
   <img src="https://github.com/yingchenxing/yingchenxing/assets/71536778/8a96d513-9617-4936-8f74-3b88f256943b" alt="Banner" width="100%"/>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/xi-chen-515156231/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_TWITTER_URL">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="YOUR_EMAIL">
+  <a href="xander11chan@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-github-username.your-github-repo" alt="visitor badge"/>
 </div>
 
 
 - 🔭 I’m currently a Full Stack Developer in **the Programming with Intelligent Machines & Environments Lab** at Virginia Tech
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/xi-chen-515156231/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:xander11chan@gmail.com)
 
 ## Languages & Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" style="margin-right: 10px;" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" style="margin-right: 10px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" style="margin-right: 10px;" />
