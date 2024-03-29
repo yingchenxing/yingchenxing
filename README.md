@@ -13,7 +13,11 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&center=true&random=false&width=1200&lines=%F0%9F%8E%89+Welcome+to+my+Profile!+%F0%9F%9A%80;%F0%9F%8C%9F+Full+Stack+Developer+%7C+4yrs%2B+of+coding+experience%F0%9F%8E%A9%E2%9C%A8;+Let's+build+something+great+together!+%F0%9F%9A%80%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%94%A7)](https://git.io/typing-svg)
 
-## Languages & Skills
+## Publications 📚
+
+Xiaohang Tang, Xi Chen, Sam Wong, Yan Chen. VizPI: A Real-Time Visualization Tool for Enhancing Peer Instruction in Large-Scale Programming Lectures. ACM Symposium on User Interface Software and Technology (UIST Poster), 2023. [link](https://dl.acm.org/doi/10.1145/3586182.3616632)
+
+## Languages & Skills 💻
 <!--   my-skils -->
 | Domain | Technologies |
 | --- | --- |
