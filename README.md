@@ -31,5 +31,4 @@ Xiaohang Tang, Xi Chen, Sam Wong, Yan Chen. VizPI: A Real-Time Visualization Too
 
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
